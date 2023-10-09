@@ -1,1 +1,1 @@
-# Getting Started with Create React App
+# Text Expander Starter React App
